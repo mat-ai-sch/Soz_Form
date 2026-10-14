@@ -1,5 +1,19 @@
 # Geschützter Download
 
+[Excel-Datei direkt herunterladen](./Soz_Auswertung_geschuetzt.xlsx)
+
+Diese Datei ist mit einem Excel-Öffnungskennwort verschlüsselt. Direkt in
+Excel öffnen und das im Chat mitgeteilte Passwort eingeben. Es ist kein
+ZIP-Entpacker erforderlich. Das Passwort ist nicht im Repository gespeichert.
+
+[Importskript und Anleitung herunterladen](./Import_Hilfen.zip)
+
+Dieses zweite ZIP enthält nur das Skript und die Anleitung, keine Falldaten.
+Es lässt sich mit dem Windows-Entpacker öffnen. Das Skript erhält auch bei
+Importaktualisierungen das Öffnungskennwort und die manuellen Nachträge.
+
+## Ursprüngliches verschlüsseltes ZIP
+
 [Soz_Auswertung_AES256.zip herunterladen](./Soz_Auswertung_AES256.zip)
 
 Das ZIP enthält die Excel-Auswertung, das Importskript und die Anleitung.
