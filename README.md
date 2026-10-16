@@ -1,4 +1,22 @@
-# Geschützter Download
+# Statistik mit drei Tabellenblättern
+
+[Neue Excel-Datei herunterladen: Soz_Statistik_geschuetzt.xlsx](./Soz_Statistik_geschuetzt.xlsx)
+
+- `Stat_Form`: sämtliche Originalzeilen aus der CSV.
+- `Stat_Cont`: sämtliche Originalblätter aus dem Container untereinander.
+- `Stat_Komb`: Zusammenführung in den zwölf gewünschten Spalten, Alter zum
+  Aufnahmedatum und CSV-Auswahl FSSOZKN2/FSSOZKN3.
+
+Die Datei ist mit einem Excel-Öffnungskennwort verschlüsselt. Sie lässt sich
+direkt in Excel öffnen; das Passwort wird separat im Chat bereitgestellt.
+
+[Aktualisierungsskript und Anleitung herunterladen](./Statistik_Import_Hilfen.zip)
+
+Die Hilfsdateien enthalten keine Falldaten und lassen sich mit dem
+Windows-Entpacker öffnen. Die Anleitung beschreibt Vorrangregeln,
+Importaktualisierung und dauerhafte manuelle Nachträge in `Stat_Komb` G–L.
+
+## Vorherige Auswertung
 
 [Excel-Datei direkt herunterladen](./Soz_Auswertung_geschuetzt.xlsx)
 
