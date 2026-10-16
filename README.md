@@ -2,10 +2,12 @@
 
 [Neue Excel-Datei herunterladen: Soz_Statistik_geschuetzt.xlsx](./Soz_Statistik_geschuetzt.xlsx)
 
-- `Stat_Form`: sämtliche Originalzeilen aus der CSV.
+- `Stat_Form`: zuerst nach FSSOZKN2/FSSOZKN3 gefilterte CSV; anschließend
+  ausschließlich die erste Originalzeile je Fallnummer (aktuell 1.811 Fälle).
 - `Stat_Cont`: sämtliche Originalblätter aus dem Container untereinander.
-- `Stat_Komb`: Zusammenführung in den zwölf gewünschten Spalten, Alter zum
-  Aufnahmedatum und CSV-Auswahl FSSOZKN2/FSSOZKN3.
+- `Stat_Komb`: genau eine Zeile je Fallnummer in den zwölf gewünschten Spalten,
+  Alter zum Aufnahmedatum und ohne neue Duplikate aus dem Container
+  (aktuell 1.881 eindeutige Fälle einschließlich 70 zusätzlicher Containerfälle).
 
 Die Datei ist mit einem Excel-Öffnungskennwort verschlüsselt. Sie lässt sich
 direkt in Excel öffnen; das Passwort wird separat im Chat bereitgestellt.
